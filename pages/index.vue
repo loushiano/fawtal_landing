@@ -961,11 +961,11 @@
   
             <div class="text-center">
               <img
-                src="/norwood.png"
+                src="https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-1.jpg"
                 alt="CEO"
                 class="w-24 h-24 rounded-full mx-auto mb-4"
               />
-              <h4 class="text-xl font-bold text-slate-dark">Raffaello Norwood</h4>
+              <h4 class="text-xl font-bold text-slate-dark">Myriam Torres</h4>
               <p class="text-black font-medium mb-2">Software Developer</p>
               <p class="text-gray-600 text-sm">
                 Junior Software Developer at Fawtal Consulting
