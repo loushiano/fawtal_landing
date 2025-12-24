@@ -15,14 +15,14 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: 'Fawtal - Software Solutions',
+      title: 'Vigelon Consulting - AI Solutions',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { name: 'description', content: 'Experience the future of digital solutions with our cutting-edge platform.' }
+        { name: 'description', content: 'Vigelon Consulting helps businesses automate workflows, cut costs, and improve decision-making using AI.' }
       ],
       link: [
-        { rel: 'icon', type: 'image/png', href: '/fawtal-favi.png' }
+        { rel: 'icon', type: 'image/png', href: '/logo-no-name.png' }
       ]
     },
     
